@@ -3,8 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   trailingSlash: true,
-  images: { unoptimized: true }
-  // output: 'export' removed for Vercel compatibility
+  images: { unoptimized: true },
+  output: 'export'
 }
 
 module.exports = nextConfig
