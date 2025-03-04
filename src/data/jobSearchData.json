@@ -1,0 +1,282 @@
+[
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Medior (3-5 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Zuid-Holland",
+      "city": "Schoonhoven",
+      "industry": "Standaard",
+      "function": "",
+      "functionGroup": "",
+      "sector": "Maakindustrie",
+      "companyType": "external"
+    },
+    "jobId": "4332",
+    "intro": "<p>Als Tekenaar/Werkvoorbereider houten kozijnen ben je de spin in het web tussen ontwerp en realisatie. Je bent werkzaam in de Krimpenerwaard in een dagdienst en bent verantwoordelijk voor diverse projecten. Uitstekende arbeidsvoorwaarden conform cao timmerindustrie met naast een goed salaris ook ontwikkel- en doorgroeimogelijkheden.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1738710000
+      ]
+    },
+    "industry": "Maakindustrie",
+    "title": "Tekenaar / Werkvoorbereider houten kozijnen",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Medior (3-5 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Zuid-Holland",
+      "city": "Dordrecht",
+      "industry": "Techniek",
+      "function": "Servicemonteur",
+      "functionGroup": "Monteurs",
+      "sector": "Techniek",
+      "companyType": "external"
+    },
+    "jobId": "4342",
+    "intro": "<p>Als Servicemonteur ben je verantwoordelijk voor storing en onderhoud aan een windmolens, waar diverse soorten technieken in terugkomen. In deze functie ben je werkzaam in het serviceteam vanuit de regio Dordrecht. Het betreft een rechtstreeks dienstverband.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1737846000
+      ]
+    },
+    "industry": "Techniek",
+    "title": "Servicemonteur Windmolens",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Junior (0-2 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Zuid-Holland",
+      "city": "Dordrecht",
+      "industry": "Office",
+      "function": "Werkvoorbereider",
+      "functionGroup": "Werkvoorbereiding",
+      "sector": "Techniek",
+      "companyType": "external"
+    },
+    "jobId": "4298",
+    "intro": "<p>Als werkvoorbereider ben je onderdeel van het serviceteam en werkzaam in de omgeving van Dordrecht. Het betreft technische functie met een commerciële ondersteuning. Je krijgt uitstekende arbeidsvoorwaarden en een rechtstreeks dienstverband.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1738537200
+      ]
+    },
+    "industry": "Techniek",
+    "title": "Werkvoorbereider",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Medior (3-5 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Zuid-Holland",
+      "city": "Dordrecht",
+      "industry": "Office",
+      "function": "Werkvoorbereider",
+      "functionGroup": "Werkvoorbereiding",
+      "sector": "Techniek",
+      "companyType": "external"
+    },
+    "jobId": "4343",
+    "intro": "<p>Als Service Coördinator ben je verantwoordelijk voor een breed arsenaal aan taken waarbij je veel afwisseling hebt in je werkzaamheden. In deze functie ben je onderdeel van het service technisch backoffice team en werkzaam in de regio Dordrecht. Het betreft een rechtstreeks dienstverband.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1737241200
+      ]
+    },
+    "industry": "Techniek",
+    "title": "Service Coördinator Windmolens",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Medior (3-5 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Zuid-Holland",
+      "city": "Zoetermeer",
+      "industry": "Productie",
+      "function": "Teamleider",
+      "functionGroup": "Leidinggevend productie",
+      "sector": "Food",
+      "companyType": "external"
+    },
+    "jobId": "2285",
+    "intro": "<p>Als Teamleider productie word je verantwoordelijk voor de aansturing van circa 25 fte in een (verlengde) dagdienst. Je treedt direct in dienst bij onze opdrachtgever, mag rekenen op een salaris dat bespreekbaar is tot €4024,-, een vaste eindejaarsuitkering én naast 25 vakantiedagen nog 13 ADV dagen.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1737759600
+      ]
+    },
+    "industry": "Food",
+    "title": "Teamleider Productie",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Medior (3-5 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Zuid-Holland",
+      "city": "Leiden",
+      "industry": "Productie",
+      "function": "Productiemedewerker",
+      "functionGroup": "Productiemedewerkers",
+      "sector": "Food",
+      "companyType": "external"
+    },
+    "jobId": "2473",
+    "intro": "<p>Als productiemedewerker bij onze opdrachtgever in regio Leiden, kom je te werken in een gloednieuwe fabriek met de meest moderne productielijnen. Bij deze producent van eiwit producten werk je in een 2-ploegendienst en ben je in de weekenden vrij!</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1738105200
+      ]
+    },
+    "industry": "Food",
+    "title": "Productiemedewerker",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "Middelbaar onderwijs",
+      "employmentTerm": "",
+      "experienceLevel": "Junior (0-2 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Zuid-Holland",
+      "city": "Ridderkerk",
+      "industry": "Logistiek",
+      "function": "Koerier",
+      "functionGroup": "Chauffeurs",
+      "sector": "Retail",
+      "companyType": "external"
+    },
+    "jobId": "2703",
+    "intro": "<p>Als meubelbezorger lever jij namens een design woonwinkel uit Ridderkerk diverse spullen aan hun klanten. Je stelt hier de wensen van de klanten centraal en ga jij fysieke uitdagingen niet uit de weg. Binnen deze functie deel je zelf flexibel je werkdagen in en kom je te werken in een hecht team.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1738969200
+      ]
+    },
+    "industry": "Retail",
+    "title": "Meubelbezorger",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Medior (3-5 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Utrecht",
+      "city": "Utrecht",
+      "industry": "Office",
+      "function": "HR medewerker",
+      "functionGroup": "HR",
+      "sector": "Food",
+      "companyType": "external"
+    },
+    "jobId": "3486",
+    "intro": "<p>Bij onze opdrachtgever in de regio Utrecht start je de functie van HR Medewerker en ga je aan de slag voor 32-40 uur per week. Je bent onderdeel van een klein HR team en voert dagelijks administratieve werkzaamheden uit. Daarnaast zoeken we iemand die wil meedenken over een efficiëntere inrichting van de HR processen binnen het bedrijf.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1737154800
+      ]
+    },
+    "industry": "Food",
+    "title": "HR Medewerker",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Junior (0-2 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Zuid-Holland",
+      "city": "Ridderkerk",
+      "industry": "Productie",
+      "function": "Productiemedewerker",
+      "functionGroup": "Productiemedewerkers",
+      "sector": "Food",
+      "companyType": "external"
+    },
+    "jobId": "1248",
+    "intro": "<p>Bij onze opdrachtgever in regio Ridderkerk, zijn wij op zoek naar een productiemedewerker met ervaring in de voedingsmiddelenindustrie. Je werkt hierbij aan een geautomatiseerde verpakkingslijn in een gekoelde omgeving tussen de 2 en 7 graden. Het betreft hier een uitdagende en zelfstandige functie in een 2-ploegendienst met een aantrekkelijke toeslag. Bij goed functioneren in het mogelijk om door te groeien tot zelfstandig operator.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1737673200
+      ]
+    },
+    "industry": "Food",
+    "title": "Productiemedewerker vleeswaren",
+    "recruiter": "John Doe"
+  },
+  {
+    "specs": {
+      "__typename": "VacancySpec",
+      "educationLevel": "MBO",
+      "employmentTerm": "",
+      "experienceLevel": "Medior (3-5 jr ervaring)",
+      "hoursPerWeek": 40,
+      "languages": "",
+      "region": "Utrecht",
+      "city": "Leerdam",
+      "industry": "Productie",
+      "function": "Teamleider",
+      "functionGroup": "Leidinggevend productie",
+      "sector": "Food",
+      "companyType": "external"
+    },
+    "jobId": "3599",
+    "intro": "<p>Vanwege personeelsuitbreiding bij onze opdrachtgever in de regio Leerdam, zijn wij op zoek naar een Teamleider voor een functie in een 2 of 3 ploegendienst. Heb jij ervaring in leidinggeven in bijvoorbeeld de horeca, supermarkt, grafische branche of binnen een productiebedrijf, en denk je goed de controle te kunnen houden over een productieteam? Dan is deze functie wellicht iets voor jou! Je wordt opgeleid door een interne trainer en leidinggevende die je klaarstomen om je eigen ploeg aan te sturen.</p>",
+    "date": {
+      "__typename": "VacancyFirstPublishedAt",
+      "timestamp": [
+        1736204400
+      ]
+    },
+    "industry": "Food",
+    "title": "Teamleider",
+    "recruiter": "John Doe"
+  }
+]
