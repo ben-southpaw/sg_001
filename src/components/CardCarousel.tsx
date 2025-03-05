@@ -169,7 +169,9 @@ const CardCarousel: React.FC<CardCarouselProps> = ({
 					return (
 						<div
 							key={`card-${index + 1}`}
-							ref={(el) => (cardsRef.current[index] = el)}
+							ref={(el) => {
+								cardsRef.current[index] = el;
+							}}
 							id={`card${index + 1}`}
 							className={`card absolute w-[100%] h-[35vh] rounded-lg shadow-[3px_2px_10px_-5px_rgba(0,0,0,0.51)] ${colors[index]}`}
 						></div>
