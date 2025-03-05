@@ -20,7 +20,6 @@ const JobCardScroller: React.FC<JobCardScrollerProps> = ({ jobs, currentIndex = 
 			className="w-full h-full flex items-center justify-center overflow-hidden"
 			style={{ touchAction: 'none' }} // Prevent default touch actions
 		>
-			{/* Current job card - sized to match the carousel's front card */}
 			<div className="w-full h-full transform transition-all duration-500 ease-in-out">
 				<JobCard job={jobs[currentIndex]} />
 			</div>

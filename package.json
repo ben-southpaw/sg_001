@@ -11,6 +11,7 @@
     "deploy": "vercel deploy --prod"
   },
   "dependencies": {
+    "@lottiefiles/dotlottie-react": "^0.13.0",
     "framer-motion": "^12.4.10",
     "gsap": "^3.12.7",
     "next": "13.5.4",
